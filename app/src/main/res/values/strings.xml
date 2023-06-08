@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Movies</string>
+    <string name="second_fragment_label">Information</string>
+    <string name="next">Forward</string>
+    <string name="previous">Previous</string>
+    <string name="back">Back</string>
+
+    <string name="firstmovie">
+"Bright" is a fantasy-action film set in a modern-day Los Angeles where mythical creatures such as elves, orcs, and fairies coexist with humans. The story revolves around two unlikely partners, a human LAPD officer named Daryl Ward (played by Will Smith) and an orc rookie cop named Nick Jakoby (played by Joel Edgerton).
+
+In this gritty urban landscape, Ward and Jakoby find themselves thrown together as they uncover a powerful artifact—a magical wand—that grants immense power to its possessor. With various factions vying for control of the wand, including corrupt cops, gang members, and a secret society of dark magic users, Ward and Jakoby must navigate treacherous alliances and dangerous situations to protect the wand and prevent it from falling into the wrong hands.
+</string>
+    <string name="secondmovie">"Toy Story" is an animated adventure film that takes viewers into a world where toys come to life when humans are not around. The story follows the beloved cowboy doll named Woody (voiced by Tom Hanks) who is the favorite toy of a young boy named Andy.</string>
+    <string name="thirdmovie">"Jaws" is a classic thriller film directed by Steven Spielberg that terrorized audiences upon its release in 1975. Set in the fictional beach town of Amity Island, the story revolves around a massive great white shark that begins to prey on unsuspecting beachgoers, instilling fear and panic in the community.</string>
+</resources>
